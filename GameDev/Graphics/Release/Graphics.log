@@ -1,0 +1,4 @@
+﻿  Renderer.cpp
+  TextureManager.cpp
+sfml-graphics.lib(sfml-graphics-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-window.lib(sfml-window-2.dll); second definition ignored
+  Graphics.vcxproj -> C:\Users\George\Source\Repos\GameDev\GameDev\Release\Graphics.lib

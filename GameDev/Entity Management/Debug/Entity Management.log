@@ -1,0 +1,13 @@
+﻿  Projectile.cpp
+  Player.cpp
+c:\users\george\source\repos\gamedev\gamedev\entity management\player.cpp(141): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Platform.cpp
+  EntityManager.cpp
+c:\users\george\source\repos\gamedev\gamedev\entity management\entitymanager.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\george\source\repos\gamedev\gamedev\entity management\entitymanager.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Entity.cpp
+  Enemy.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-window-d.lib(sfml-window-d-2.dll); second definition ignored
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Entity Management.vcxproj -> C:\Users\George\Source\Repos\GameDev\GameDev\Debug\Entity Management.lib

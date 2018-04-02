@@ -1,0 +1,9 @@
+background ../Resources/Backgrounds/TestBGPeaks.png
+playerRight ../Resources/Player/TestPRight.png
+playerLeft ../Resources/Player/TestPLeft.png
+playerJumpRight ../Resources/Player/TestPJumpRight.png
+playerJumpLeft ../Resources/Player/TestPJumpLeft.png
+platform ../Resources/Platforms/TestPlatform.png
+enemy ../Resources/Enemy/FireballEnemy.png
+pause ../Resources/Other/Paused.png
+gameover ../Resources/Other/GameOver.png

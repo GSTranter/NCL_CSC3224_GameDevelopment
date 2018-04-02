@@ -1,0 +1,11 @@
+﻿  Enemy.cpp
+  Entity.cpp
+  EntityManager.cpp
+EntityManager.cpp(40): warning C4018: '<': signed/unsigned mismatch
+EntityManager.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Platform.cpp
+  Player.cpp
+Player.cpp(141): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+sfml-graphics.lib(sfml-graphics-2.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in sfml-window.lib(sfml-window-2.dll); second definition ignored
+  Entity Management.vcxproj -> C:\Users\George\Source\Repos\GameDev\GameDev\Release\Entity Management.lib

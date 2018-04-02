@@ -1,0 +1,16 @@
+﻿  FreeListAllocator.cpp
+c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): warning C4005: 'NDEBUG': macro redefinition
+  c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): note: command-line arguments:  see previous definition of 'NDEBUG'
+  LinearAllocator.cpp
+c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): warning C4005: 'NDEBUG': macro redefinition
+  c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): note: command-line arguments:  see previous definition of 'NDEBUG'
+  PoolAllocator.cpp
+c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): warning C4005: 'NDEBUG': macro redefinition
+  c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): note: command-line arguments:  see previous definition of 'NDEBUG'
+  ProxyAllocator.cpp
+c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): warning C4005: 'NDEBUG': macro redefinition
+  c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): note: command-line arguments:  see previous definition of 'NDEBUG'
+  StackAllocator.cpp
+c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): warning C4005: 'NDEBUG': macro redefinition
+  c:\users\george\source\repos\gamedev\gamedev\allocator\Debug.h(7): note: command-line arguments:  see previous definition of 'NDEBUG'
+  Allocator.vcxproj -> C:\Users\George\Source\Repos\GameDev\GameDev\Release\Allocator.lib

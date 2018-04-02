@@ -1,0 +1,9 @@
+background ../Resources/Backgrounds/mustafar.png
+playerRight ../Resources/Player/TestPRight.png
+playerLeft ../Resources/Player/TestPLeft.png
+playerJumpRight ../Resources/Player/TestPJumpRight.png
+playerJumpLeft ../Resources/Player/TestPJumpLeft.png
+platform ../Resources/Platforms/lava.png
+enemy ../Resources/Enemy/myonlyhope.png
+pause ../Resources/Other/Paused.png
+gameover ../Resources/Other/GameOver.png

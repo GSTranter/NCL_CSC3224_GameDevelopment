@@ -1,0 +1,9 @@
+﻿  Core.cpp
+  GameLogic.cpp
+  main.cpp
+  State.cpp
+  Generating code
+  All 1575 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Core.vcxproj -> C:\Users\George\Source\Repos\GameDev\GameDev\Release\Core.exe
+  Core.vcxproj -> C:\Users\George\Source\Repos\GameDev\GameDev\Release\Core.pdb (Full PDB)

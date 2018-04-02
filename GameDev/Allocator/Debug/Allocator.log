@@ -1,0 +1,7 @@
+﻿  StackAllocator.cpp
+  ProxyAllocator.cpp
+  PoolAllocator.cpp
+  LinearAllocator.cpp
+  FreeListAllocator.cpp
+  Generating Code...
+  Allocator.vcxproj -> C:\Users\George\Source\Repos\GameDev\GameDev\Debug\Allocator.lib
